@@ -16,7 +16,8 @@ Each project highlights real-world business cases — from HR attrition manageme
 - Identified early-career and low-salary employees as key attrition risk groups.  
 - Delivered actionable retention recommendations for HR and leadership.  
 
-📂 Folder: [`/hr-analytics-dashboard`](./HR Attrition Portfolio Project)
+📂 Folder: [HR Attrition & Retention Dashboard Folder](./HR%20Attrition%20Portfolio%20Project/)
+
 
 ---
 
