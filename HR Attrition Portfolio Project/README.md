@@ -48,7 +48,7 @@ Attrition is highest among employees aged 26–35 earning up to 5k, primarily wi
 ## Executive Dashboard Preview
 
 ### Overview
-![Dashboard Overview](./Assets/OVERVIEW.JPG)
+![Dashboard Overview](./Assets/Overview.JPG)
 
 ### KPI Summary
 ![Employee Count, Attrition, and Rate](./Assets/KPIcards.JPG)
