@@ -8,7 +8,7 @@ Each project highlights real-world business cases — from HR attrition manageme
 
 ## 📊 Featured Projects
 
-### 1️⃣ [HR Attrition & Retention Dashboard](./Hr-analytics-dashboard/README.md)
+### 1️⃣ [HR Attrition & Retention Dashboard](./HR Attrition Portfolio Project/README.md)
 **Tools:** Power BI, Power Query, DAX  
 **Focus:** Workforce attrition analysis and retention strategy for a mid-sized company.  
 **Highlights:**  
@@ -16,7 +16,7 @@ Each project highlights real-world business cases — from HR attrition manageme
 - Identified early-career and low-salary employees as key attrition risk groups.  
 - Delivered actionable retention recommendations for HR and leadership.  
 
-📂 Folder: [`/hr-analytics-dashboard`](./HRAttritionPortfolioProject/)
+📂 Folder: [`/hr-analytics-dashboard`](./HR Attrition Portfolio Project)
 
 ---
 
